@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey, I’m Emel
 
-<!--
-**emelcoloman/emelcoloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on university projects and several side apps that help me grow in C/C++, Kotlin, web development, and backend engineering. This semester, I’m diving deeper into Database Systems, Software Testing, Project Management, and Programming Languages, and I’m excited to apply everything I learn as I move toward real-world development experience.
 
-Here are some ideas to get you started:
+🔍 Some Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -Database Systems – working with SQL, NoSQL, and exploring different database engines
+
+ -Software Verification, Validation & Testing – learning how testing actually keeps software stable and maintainable
+
+ -Software Project Management – understanding how to plan, track, and deliver software (not just code it)
+
+ -Programming Languages – studying how languages work under the hood and where each one shines
+
+💻 Tech Stack
+
+C • C++ • Java • Kotlin • JavaScript • PHP • Python • MySQL • SQLite • Node.js • React • JWT •
